@@ -9,7 +9,6 @@ This repository contains the code and implementation for a character-level langu
 
 To run the code, you will need to have the following Python packages installed:
 
-- Python 3.x
 - PyTorch
 - NumPy
 - Pandas
